@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-13T07:45:36+00:00",
+  "title": "Design System: Syeda Jahirin Aktari",
+  "extensions": {
+    "colorMeta": {
+      "cover": {
+        "role": "primary",
+        "displayName": "Journal Cover Green",
+        "canonical": "#0B3B2E",
+        "tonalRamp": [
+          "oklch(15.0% 0.055 170.6)",
+          "oklch(26.4% 0.055 170.6)",
+          "oklch(37.9% 0.055 170.6)",
+          "oklch(49.3% 0.055 170.6)",
+          "oklch(60.7% 0.055 170.6)",
+          "oklch(72.1% 0.055 170.6)",
+          "oklch(83.6% 0.055 170.6)",
+          "oklch(95.0% 0.055 170.6)"
+        ]
+      },
+      "cover-deep": {
+        "role": "primary",
+        "displayName": "Deep Cover Green",
+        "canonical": "#072A21",
+        "tonalRamp": [
+          "oklch(15.0% 0.043 172.3)",
+          "oklch(26.4% 0.043 172.3)",
+          "oklch(37.9% 0.043 172.3)",
+          "oklch(49.3% 0.043 172.3)",
+          "oklch(60.7% 0.043 172.3)",
+          "oklch(72.1% 0.043 172.3)",
+          "oklch(83.6% 0.043 172.3)",
+          "oklch(95.0% 0.043 172.3)"
+        ]
+      },
+      "gold": {
+        "role": "secondary",
+        "displayName": "Offprint Gold",
+        "canonical": "#C9A961",
+        "tonalRamp": [
+          "oklch(15.0% 0.099 86.1)",
+          "oklch(26.4% 0.099 86.1)",
+          "oklch(37.9% 0.099 86.1)",
+          "oklch(49.3% 0.099 86.1)",
+          "oklch(60.7% 0.099 86.1)",
+          "oklch(72.1% 0.099 86.1)",
+          "oklch(83.6% 0.099 86.1)",
+          "oklch(95.0% 0.099 86.1)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Offprint Paper",
+        "canonical": "#FDFCFA",
+        "tonalRamp": [
+          "oklch(15.0% 0.003 84.6)",
+          "oklch(26.4% 0.003 84.6)",
+          "oklch(37.9% 0.003 84.6)",
+          "oklch(49.3% 0.003 84.6)",
+          "oklch(60.7% 0.003 84.6)",
+          "oklch(72.1% 0.003 84.6)",
+          "oklch(83.6% 0.003 84.6)",
+          "oklch(95.0% 0.003 84.6)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Press Ink",
+        "canonical": "#161616",
+        "tonalRamp": [
+          "oklch(15.0% 0.000 89.9)",
+          "oklch(26.4% 0.000 89.9)",
+          "oklch(37.9% 0.000 89.9)",
+          "oklch(49.3% 0.000 89.9)",
+          "oklch(60.7% 0.000 89.9)",
+          "oklch(72.1% 0.000 89.9)",
+          "oklch(83.6% 0.000 89.9)",
+          "oklch(95.0% 0.000 89.9)"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Grey Ink",
+        "canonical": "#55534E",
+        "tonalRamp": [
+          "oklch(15.0% 0.008 88.7)",
+          "oklch(26.4% 0.008 88.7)",
+          "oklch(37.9% 0.008 88.7)",
+          "oklch(49.3% 0.008 88.7)",
+          "oklch(60.7% 0.008 88.7)",
+          "oklch(72.1% 0.008 88.7)",
+          "oklch(83.6% 0.008 88.7)",
+          "oklch(95.0% 0.008 88.7)"
+        ]
+      },
+      "tint": {
+        "role": "neutral",
+        "displayName": "Green-White Tint",
+        "canonical": "#BFD3C9",
+        "tonalRamp": [
+          "oklch(15.0% 0.026 164.3)",
+          "oklch(26.4% 0.026 164.3)",
+          "oklch(37.9% 0.026 164.3)",
+          "oklch(49.3% 0.026 164.3)",
+          "oklch(60.7% 0.026 164.3)",
+          "oklch(72.1% 0.026 164.3)",
+          "oklch(83.6% 0.026 164.3)",
+          "oklch(95.0% 0.026 164.3)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Hairline Stone",
+        "canonical": "#D9D5CC",
+        "tonalRamp": [
+          "oklch(15.0% 0.013 86.8)",
+          "oklch(26.4% 0.013 86.8)",
+          "oklch(37.9% 0.013 86.8)",
+          "oklch(49.3% 0.013 86.8)",
+          "oklch(60.7% 0.013 86.8)",
+          "oklch(72.1% 0.013 86.8)",
+          "oklch(83.6% 0.013 86.8)",
+          "oklch(95.0% 0.013 86.8)"
+        ]
+      },
+      "rule-heavy": {
+        "role": "neutral",
+        "displayName": "Heavy Rule",
+        "canonical": "#161616",
+        "tonalRamp": [
+          "oklch(15.0% 0.000 89.9)",
+          "oklch(26.4% 0.000 89.9)",
+          "oklch(37.9% 0.000 89.9)",
+          "oklch(49.3% 0.000 89.9)",
+          "oklch(60.7% 0.000 89.9)",
+          "oklch(72.1% 0.000 89.9)",
+          "oklch(83.6% 0.000 89.9)",
+          "oklch(95.0% 0.000 89.9)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The author's name in the cover band only; fluid 40px to 68px."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Paper titles and role titles (24px), assigned by role not heading level."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose, abstracts, lists, table cells; 70ch measure."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "13px tracked capitals: running head, band actions, role label, footer. Running-head links drop to 12px / 0.05em at 900px and below."
+      },
+      "section-head": {
+        "displayName": "Section Head",
+        "purpose": "13px tracked capitals, 600, under a hairline rule; names the section it opens."
+      }
+    },
+    "shadows": [
+      {
+        "name": "tipped-in-plate",
+        "value": "0 18px 40px -14px rgba(0,0,0,.5), 0 4px 10px -4px rgba(0,0,0,.3)",
+        "purpose": "Portrait plate only; the system's single shadow."
+      }
+    ],
+    "focus": [
+      {
+        "name": "focus-on-paper",
+        "value": "outline: 2px solid #0B3B2E; outline-offset: 3px",
+        "purpose": "Default focus ring."
+      },
+      {
+        "name": "focus-on-green",
+        "value": "outline: 2px solid #C9A961; outline-offset: 3px",
+        "purpose": "Inside the running head and cover band."
+      }
+    ],
+    "motion": [
+      {
+        "name": "running-head-mark",
+        "value": "border-color .35s cubic-bezier(.16,1,.3,1), color .35s",
+        "purpose": "Gold mark moving between running-head links; the signature motion."
+      },
+      {
+        "name": "action-state",
+        "value": "background-color .25s, color .25s",
+        "purpose": "Band action hover."
+      },
+      {
+        "name": "scroll",
+        "value": "scroll-behavior: smooth (auto under prefers-reduced-motion)",
+        "purpose": "In-page anchor navigation."
+      }
+    ],
+    "layout": [
+      {
+        "name": "measure",
+        "value": "70ch"
+      },
+      {
+        "name": "aside",
+        "value": "20rem (12rem at 900px and below)"
+      },
+      {
+        "name": "overhang",
+        "value": "6rem (3rem at 900px and below)"
+      },
+      {
+        "name": "running-head-height",
+        "value": "3rem"
+      },
+      {
+        "name": "scroll-margin",
+        "value": "4.5rem"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "single-column",
+        "value": "900px"
+      },
+      {
+        "name": "table-reflow",
+        "value": "640px"
+      }
+    ],
+    "strokes": [
+      {
+        "name": "booktabs-top-bottom",
+        "value": "1.5px solid #161616"
+      },
+      {
+        "name": "booktabs-mid",
+        "value": "1px solid #161616"
+      },
+      {
+        "name": "section-rule",
+        "value": "1px solid #161616"
+      },
+      {
+        "name": "subsection-rule",
+        "value": "1px solid #D9D5CC"
+      },
+      {
+        "name": "abstract-rule",
+        "value": "1px solid #D9D5CC (left)"
+      },
+      {
+        "name": "running-head-rule",
+        "value": "1px solid #C9A961"
+      },
+      {
+        "name": "active-section-mark",
+        "value": "2px solid #C9A961 (bottom)"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The single filled action in the cover band (CV download).",
+      "html": "<div class=\"ds-band\"><a class=\"ds-act ds-act-primary\" href=\"#\">Curriculum vitae (PDF)</a></div>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-band{background:var(--cover);padding:1.5rem} .ds-act{display:inline-block;padding:.7rem 1.15rem .62rem;border:1px solid var(--paper);border-radius:2px;text-decoration:none;font-family:var(--serif);font-size:.8125rem;letter-spacing:.09em;text-transform:uppercase;font-variant-numeric:tabular-nums;transition:background-color .25s,color .25s} .ds-act-primary{background:var(--paper);color:var(--cover)} .ds-act-primary:hover{background:#fff} .ds-act:focus-visible{outline:2px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Secondary Action",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Bordered action on green (job market paper link).",
+      "html": "<div class=\"ds-band\"><a class=\"ds-act\" href=\"#\">Job market paper</a></div>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-band{background:var(--cover);padding:1.5rem} .ds-act{display:inline-block;padding:.7rem 1.15rem .62rem;border:1px solid var(--paper);border-radius:2px;color:var(--paper);text-decoration:none;font-family:var(--serif);font-size:.8125rem;letter-spacing:.09em;text-transform:uppercase;font-variant-numeric:tabular-nums;transition:background-color .25s,color .25s} .ds-act:hover{background:var(--cover-deep)} .ds-act:focus-visible{outline:2px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Text Link",
+      "kind": "custom",
+      "description": "Cover-green link on paper with a 45% underline that firms on hover.",
+      "html": "<p class=\"ds-p\">Write to <a class=\"ds-link\" href=\"#\">syedajahirin.aktari@siu.edu</a></p>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-p{font-family:var(--serif);font-size:1.0625rem;line-height:1.55;color:var(--ink);background:var(--paper);padding:1rem} .ds-link{color:var(--cover);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;text-decoration-color:color-mix(in srgb,var(--cover) 45%,transparent)} .ds-link:hover{text-decoration-color:var(--cover)} .ds-link:focus-visible{outline:2px solid var(--cover);outline-offset:3px}"
+    },
+    {
+      "name": "Running Head",
+      "kind": "nav",
+      "refersTo": "running-head",
+      "description": "Sticky green bar; gold underline marks the section in view.",
+      "html": "<nav class=\"ds-rh\"><span class=\"ds-rh-who\">Syeda Jahirin Aktari</span><ul><li><a href=\"#\" aria-current=\"true\">About</a></li><li><a href=\"#\">Research</a></li><li><a href=\"#\">Teaching</a></li><li><a href=\"#\">Contact</a></li></ul></nav>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-rh{display:flex;align-items:center;justify-content:space-between;gap:1.5rem;min-height:3rem;padding:0 1.25rem;background:var(--cover);color:var(--paper);border-bottom:1px solid var(--gold);font-family:var(--serif);font-size:.8125rem;letter-spacing:.09em;text-transform:uppercase;font-variant-numeric:tabular-nums;} .ds-rh-who{color:var(--tint)} .ds-rh ul{list-style:none;margin:0;padding:0;display:flex;gap:1.5rem} .ds-rh a{display:inline-block;padding:.9rem 0 .8rem;color:var(--paper);text-decoration:none;border-bottom:2px solid transparent;transition:border-color .35s cubic-bezier(.16,1,.3,1),color .35s} .ds-rh a:hover{color:var(--tint)} .ds-rh a[aria-current=\"true\"]{border-bottom-color:var(--gold)} .ds-rh a:focus-visible{outline:2px solid var(--gold);outline-offset:3px}"
+    },
+    {
+      "name": "Section Head",
+      "kind": "custom",
+      "description": "Tracked capitals under a heavy hairline; subsection variant uses the stone rule.",
+      "html": "<div class=\"ds-paper\"><h2 class=\"ds-sh\">Research</h2><h3 class=\"ds-sh ds-sh-sub\">Working papers</h3></div>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-paper{background:var(--paper);padding:1rem;font-family:var(--serif)} .ds-sh{font-size:.8125rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--ink);border-top:1px solid var(--rule-heavy);padding-top:.6rem;margin:0 0 1.5rem} .ds-sh-sub{border-top-color:var(--rule);margin-bottom:1.25rem}"
+    },
+    {
+      "name": "Article Block",
+      "kind": "card",
+      "description": "Title, role label, ruled abstract with run-in label, keyword line.",
+      "html": "<article class=\"ds-art\"><h3>Higher Education and Its Effect on Political Participation</h3><p class=\"ds-role\">Job market paper</p><div class=\"ds-abs\"><p>This study investigates the impact of increasing access to higher education in Egypt on long-term political participation.</p></div><p class=\"ds-kw\">Higher education expansion, political participation</p></article>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-art{background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:1.0625rem;line-height:1.55;padding:1rem} .ds-art h3{font-size:1.5rem;line-height:1.2;letter-spacing:-.005em;font-weight:600;margin:0 0 .5rem} .ds-role{margin:0 0 .75rem;color:var(--cover);font-family:var(--serif);font-size:.8125rem;letter-spacing:.09em;text-transform:uppercase;font-variant-numeric:tabular-nums;} .ds-abs{margin:.9rem 0 0;padding-left:1.5rem;border-left:1px solid var(--rule)} .ds-abs p{margin:0} .ds-abs p::before{content:\"Abstract. \";font-style:italic;font-weight:600} .ds-kw{color:var(--ink-2);margin:.4rem 0 0} .ds-kw::before{content:\"Keywords: \";font-style:italic}"
+    },
+    {
+      "name": "Booktabs Table",
+      "kind": "custom",
+      "description": "Heavy top and bottom, hairline mid, no row or vertical rules; italic grey column heads.",
+      "html": "<table class=\"ds-bt\"><thead><tr><th colspan=\"2\">Course</th><th>Role</th><th>Term</th></tr></thead><tbody><tr class=\"ds-panel\"><th colspan=\"4\">Southern Illinois University Carbondale</th></tr><tr><td>ECON 334</td><td>Health Economics</td><td>Instructor of record</td><td>Summer 2025</td></tr><tr><td>ECON 240</td><td>Introduction to Microeconomics</td><td>Teaching assistant</td><td>Fall 2022 – Spring 2023</td></tr></tbody></table>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-bt{width:100%;border-collapse:collapse;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:1.0625rem;line-height:1.4;font-variant-numeric:tabular-nums;border-bottom:1.5px solid var(--rule-heavy)} .ds-bt thead th{text-align:left;font-weight:400;font-style:italic;color:var(--ink-2);border-top:1.5px solid var(--rule-heavy);border-bottom:1px solid var(--rule-heavy);padding:.5rem .75rem .45rem 0} .ds-panel th{text-align:left;font-weight:600;padding:.9rem .75rem .35rem 0} .ds-bt td{padding:.3rem .75rem .3rem 0;vertical-align:top;white-space:nowrap} .ds-bt tbody tr:last-child td{padding-bottom:.7rem}"
+    },
+    {
+      "name": "Dated List",
+      "kind": "custom",
+      "description": "Tabular years in a grey column beside entries.",
+      "html": "<dl class=\"ds-dl\"><dt>2026</dt><dd>Midwest Economics Association Annual Meetings, Chicago, IL</dd><dt>2025–26</dt><dd>Dissertation Research Assistantship Award</dd></dl>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-dl{display:grid;grid-template-columns:auto 1fr;column-gap:1rem;row-gap:.6rem;margin:0;padding:1rem;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:1.0625rem;line-height:1.5} .ds-dl dt{font-variant-numeric:tabular-nums;color:var(--ink-2)} .ds-dl dd{margin:0}"
+    },
+    {
+      "name": "Portrait Plate",
+      "kind": "custom",
+      "description": "Tipped-in photograph: 6px paper border, soft offset shadow, hangs over the band edge.",
+      "html": "<div class=\"ds-plate-wrap\"><div class=\"ds-band\"></div><figure class=\"ds-plate\"><div class=\"ds-img\"></div></figure></div>",
+      "css": ":host{--cover:#0B3B2E;--cover-deep:#072A21;--paper:#FDFCFA;--ink:#161616;--ink-2:#55534E;--tint:#BFD3C9;--gold:#C9A961;--rule:#D9D5CC;--rule-heavy:#161616;--serif:\"STIX Two Text\",\"Times New Roman\",Times,serif} .ds-plate-wrap{position:relative;background:var(--paper);height:14rem} .ds-band{background:var(--cover);height:8rem} .ds-plate{position:absolute;left:2rem;top:2rem;margin:0;width:10rem} .ds-img{aspect-ratio:1400/1217;background:var(--ink-2);border:6px solid var(--paper);box-shadow:0 18px 40px -14px rgba(0,0,0,.5),0 4px 10px -4px rgba(0,0,0,.3)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Journal Offprint",
+    "overview": "The site is set like the front matter of an economics journal article pulled as an offprint. A deep cover-green band carries the author's name and the two actions a hiring committee came for. Below it the interior is bright paper with near-black ink, and everything is typeset the way economists already read: run-in abstracts, italic keyword lines, booktabs tables, dates in a tabular column. Rules and position carry the hierarchy. Size and colour do very little of that work.\n\nDensity is that of a well-set journal page: one serif face, a 70ch reading measure, a narrow marginalia column, and generous but not airy vertical rhythm. Expression lives in the typographic details (hairline rules, tracked capitals, a single gold running-head rule) and never gets in the way of the abstract.\n\nThe rejected directions are the sidebar-photo-plus-bulleted-list academic template and the hero-banner personal-brand page. Nothing animates on entrance. The one motion is the running head's gold mark moving to the section being read, plus smooth in-page scrolling.",
+    "keyCharacteristics": [
+      "One face, STIX Two Text, at four sizes; hierarchy by rules and placement.",
+      "Cover green for the band and running head only; paper and ink everywhere else.",
+      "Gold appears only as a line: the running-head rule, the active-section mark, and the focus ring on green.",
+      "Section heads are small tracked capitals under a hairline rule.",
+      "A single tipped-in portrait plate carries the only shadow in the system.",
+      "Prints cleanly: the band and running head collapse to black on white."
+    ],
+    "rules": [
+      {
+        "name": "The Gold Hairline Rule",
+        "body": "Gold only ever appears as a border, underline, or outline, never as a fill or as text. If gold is covering an area, it is being misused.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Fields Rule",
+        "body": "Green belongs to the band and the running head. On paper, green only appears as link text and the role label, never as a background panel.",
+        "section": "colors"
+      },
+      {
+        "name": "The Four Sizes Rule",
+        "body": "Four sizes only: display, title, body, and 13px capitals. A new level of importance is expressed with a rule, a position, or italics, never with a fifth size.",
+        "section": "typography"
+      },
+      {
+        "name": "The Tabular Time Rule",
+        "body": "Years and terms use tabular numerals and sit in their own aligned column (dated definition lists, table term column).",
+        "section": "typography"
+      },
+      {
+        "name": "The One Plate Rule",
+        "body": "Only the tipped-in plate casts a shadow. Text blocks, tables, and actions stay flat on the paper.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do express a new level of hierarchy with a rule (1px heavy, 1px stone, or booktabs 1.5px) or placement before reaching for a size.",
+      "Do set years, terms, and course codes in tabular numerals in their own column.",
+      "Do open abstracts with an italic \"Abstract.\" run-in and close them with an italic \"Keywords:\" line.",
+      "Do keep the focus ring 2px with a 3px offset: cover green on paper, gold on green.",
+      "Do keep anchors scrolling to 4.5rem from the top so the running head never hides a heading.",
+      "Do keep the print stylesheet working whenever a section is added."
+    ],
+    "donts": [
+      "Don't add a fifth type size or a second typeface, and never put a system display face in the type stack.",
+      "Don't use gold as a fill or as text colour.",
+      "Don't put a label above a heading that teases or restates it. Tracked capitals under a rule are a section head only when they carry that section's own name.",
+      "Don't wrap content in cards, panels, or tinted boxes. The plate is a bordered photograph, not a container for content.",
+      "Don't add shadows beyond the plate, and never use a hard offset shadow.",
+      "Don't add row rules or vertical rules to tables.",
+      "Don't label a contact link with its type (\"Email:\"). The link text is the address.",
+      "Don't animate anything on entrance. The running-head mark and smooth scrolling are the only motion."
+    ]
+  }
+}
