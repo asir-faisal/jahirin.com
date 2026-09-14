@@ -104,6 +104,10 @@ h4{font-size:1.5rem;line-height:1.2;letter-spacing:-.005em;margin:0 0 .5rem}
 .kw::before{content:"Keywords: ";font-style:italic}
 .paper{margin-bottom:2.75rem}
 .paper:last-child{margin-bottom:0}
+.credentials-grid,.references-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2.5rem var(--gap)}
+.references-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:1.5rem}
+.credentials-grid h3,.references-grid h3{font-size:1.125rem;margin-bottom:.45rem}
+.skills-heading{margin-top:1.75rem}
 .sub{margin-top:2.75rem}
 .sub h3{font-size:.8125rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--ink);border-top:1px solid var(--rule);padding-top:.6rem;margin-bottom:1.25rem}
 ul.plain{list-style:none;margin:0;padding:0}
@@ -158,8 +162,10 @@ footer p{margin:0}
   main aside,main section{grid-column:1}
   #contact,.marginalia{grid-row:auto;padding-top:0}
   .marginalia .stick{position:static}
+  .references-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
 @media (max-width:640px){
+  .credentials-grid,.references-grid{grid-template-columns:1fr;gap:1.75rem}
   thead{display:none}
   table{border-top:1.5px solid var(--rule-heavy)}
   tbody tr{display:block;padding:.45rem 0}
