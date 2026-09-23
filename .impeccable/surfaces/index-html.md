@@ -11,7 +11,7 @@ Scope: the entire job-market site, one page with in-page navigation. Visitor mod
 
 Audience and job: economics hiring-committee members opening the site from a JOE application or CV link; they want the job market paper abstract, the CV PDF, the teaching record, and an email address within seconds. Secondary: recruiters arriving from LinkedIn.
 
-Proof and content: all copy from source/Website Content.docx; CV at public/files/Syeda-Jahirin-Aktari-CV.pdf; two syllabus PDFs in public/files/; headshot public/files/syeda-jahirin-aktari.jpg. No paper PDFs exist yet; abstracts and keywords stand in and no dead links are allowed.
+Proof and content: all copy from source/Website Content.docx; CV at public/files/Syeda_Jahirin_Aktari_CV_Teaching_NO Contact.pdf; two syllabus PDFs in public/files/; headshot public/files/syeda-jahirin-aktari.jpg. No paper PDFs exist yet; abstracts and keywords stand in and no dead links are allowed.
 
 Constraints: Vite vanilla build (index.html + src/style.css + src/main.js), deploy to Vercel, phone number never on the page, WCAG AA.
 

@@ -43,7 +43,7 @@ Name: Syeda Jahirin Aktari. Affiliation: School of Analytics, Finance, and Econo
 ## Evidence on Hand
 
 - `source/Website Content.docx` — all page copy (about, research, teaching).
-- `public/files/Syeda_Jahirin_Aktari_CV_updated.pdf` — current public CV.
+- `public/files/Syeda_Jahirin_Aktari_CV_Teaching_NO Contact.pdf` — current public CV.
 - `public/files/ECON334-Health-Economics-Syllabus-Summer-2025.pdf`, `public/files/ECON113-Economics-of-Contemporary-Social-Issues-Syllabus-Spring-2025.pdf` — syllabi for the two instructor-of-record courses.
 - `public/files/syeda-jahirin-aktari.jpg` — headshot, full uncropped frame, 1400×1217 (user asked for the whole image, not a face crop).
 - Absent, must not be fabricated: paper PDFs, publications, citations, Google Scholar link, testimonials, teaching evaluations, placement claims.
